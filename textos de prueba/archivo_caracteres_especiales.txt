@@ -1,0 +1,5 @@
+Línea con caracteres especiales: @$&*#~!{}[]().
+Línea con tabulaciones		y más texto.
+Línea con un salto de línea al final pero con contenido.
+Línea terminada en \n
+

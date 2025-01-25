@@ -1,0 +1,7 @@
+Primera línea con texto.
+Línea vacía.
+
+Línea con caracteres especiales: #@&*!
+Línea larga que contiene más de 100 caracteres: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Otra línea más.
+

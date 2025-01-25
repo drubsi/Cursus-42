@@ -1,0 +1,8 @@
+Primera línea con texto.
+
+Segunda línea, vacía.
+
+    Tercera línea con espacios iniciales.
+Cuarta línea con un espacio al final 
+Quinta línea con texto.
+

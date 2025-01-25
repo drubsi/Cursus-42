@@ -1,0 +1,7 @@
+Este es un archivo de prueba.
+Cada línea contiene un texto simple.
+Puedes usar este archivo para validar
+que tu función maneja líneas básicas.
+Fin del archivo.
+
+
